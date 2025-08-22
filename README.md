@@ -44,7 +44,7 @@ Uses **MySQL** as the database.
 ## Setup
 1. Clone repo:
    ```bash
-   git clone https://github.com/UttamKuma04/Booking-system.git
+   git clone https://github.com/UttamKuma04/Travel-System.git
    cd your-repo-name
 
 2.python -m venv .venv
