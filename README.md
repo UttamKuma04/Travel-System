@@ -15,12 +15,14 @@ Uses **MySQL** as the database.
 - MySQL integration with Django ORM
 
 
-Files & Directories
+## Files & Directories
+
     Travel_Booking - project directory.
     urls.py - This file handles all the URLs of the project.
     app - main application directory.
     static - contains all static content.
-    templates/app - Contains all application templates.
+    
+    templates/app
         base.html - Home page template.
         booking_history.html - Template for Showing Booking history.
         booking_success.html - Template for Showing Ticket Confirmation.
